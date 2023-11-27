@@ -7,7 +7,7 @@ function NavBar() {
   return (
     <>
         <nav className='bg-[rgba(234,210,238,0.68)] p-3 max-sm:p-10'>
-            <div className='flex justify-between items-center max-sm:justify-evenly'>
+            <div className='flex justify-between items-center max-sm:justify-around max-sm:gap-7'>
                 <img className='w-16' src="https://cdn-icons-png.flaticon.com/128/9691/9691196.png" alt="" />
                 <div>
                     <ul className='flex gap-10'>
