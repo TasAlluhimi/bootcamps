@@ -4,7 +4,7 @@ import main from '../assets/main.svg'
 function Bootcamps() {
   return (
     <>
-          <div className='flex min-h-[100vh] w-[100%] bg-slate-100 justify-center flex-row items-center flex-wrap'>
+          <div className='flex min-h-[100vh] w-[100%] justify-center flex-row items-center flex-wrap'>
 
         <div className='flex justify-center items-center w-[100%] max-sm:flex-col max-sm:gap-y-9 max-sm:text-center max-sm:mt-0'>
 
